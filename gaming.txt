@@ -1,1 +1,6 @@
 I love playing sudoku as well as chess and carrom too
+
+
+I sometimes loves cycling also
+
+Hotfix:fixed bug in release
